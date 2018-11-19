@@ -1,2 +1,2 @@
-# Mumbai-slum-segmentation
+# Mumbai slum segmentation
 
