@@ -50,7 +50,7 @@ sys.path.append(ROOT_DIR)  # To find local version of the library
 
 from mrcnn.config import Config
 from mrcnn import model as modellib, utils
-
+from mrcnn.visualize import random_colors,apply_mask
 # Path to trained weights file
 COCO_WEIGHTS_PATH = os.path.join(ROOT_DIR, "mask_rcnn_coco.h5")
 
@@ -245,23 +245,17 @@ def train(model):
                 augmentation = seq
                 )
 
-def color_splash(image, mask):
+def color_splash(image, mask,color):
     """Apply color splash effect.
     image: RGB image [height, width, 3]
     mask: instance segmentation mask [height, width, instance count]
 
     Returns result image.
-    """
-    # Make a grayscale copy of the image. The grayscale copy still
-    # has 3 RGB channels, though.
-    gray = skimage.color.gray2rgb(skimage.color.rgb2gray(image)) * 255
-    # Copy color pixels from the original color image where mask is set
-    if mask.shape[-1] > 0:
-        # We're treating all instances as one, so collapse the mask into one layer
-        mask = (np.sum(mask, -1, keepdims=True) >= 1)
-        splash = np.where(mask, image, gray).astype(np.uint8)
-    else:
-        splash = gray.astype(np.uint8)
+    """    
+    mask = (np.sum(mask, -1, keepdims=True) >= 1)
+    mask = np.squeeze(mask)
+    splash = apply_mask(image,mask,color[0])
+    print(splash.shape)
     return splash
 
 
@@ -296,6 +290,7 @@ def detect_and_color_splash(model, image_path=None, video_path=None):
         
         count = 0
         success = True
+        color = random_colors(5)
         while success:
             print("frame: ", count)
             # Read next image
@@ -306,7 +301,7 @@ def detect_and_color_splash(model, image_path=None, video_path=None):
                 # Detect objects
                 r = model.detect([image], verbose=0)[0]
                 # Color splash
-                splash = color_splash(image, r['masks'])
+                splash = color_splash(image, r['masks'],color)
                 # RGB -> BGR to save image to video
                 splash = splash[..., ::-1]
                 # Add image to video writer
