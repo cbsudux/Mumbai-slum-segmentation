@@ -13,7 +13,7 @@ reliable sanitation services, clean water, electricity, other basic services. We
 
 ## Mumbai Slums
 
-Mumbai is the most populous city .. .However, it is also, home to some of the largest slums in asia - Dharavi, Govandi ..
+Mumbai is the most populous city .. .However, it is also, home to some of the largest slums in asia - Dharavi, Mankhurd-Govandi belt, KurlaGhatkopar belt, Dindoshi and The Bhandup-Mulund slums.
 
 Add pictues at 1000m of each slum ( add a population stat on the pic itself)
 (add one crude infographic of mumbai with markers of each slum?)
