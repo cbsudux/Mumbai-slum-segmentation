@@ -7,7 +7,7 @@ rehabilitation is an important global challenge, and a significant
 amount of effort and resources have been put into this endeavor. These initiatives
 rely heavily on **slum mapping** and **monitoring**.
 
-In this work, we introduce an approach to segment and map individual slums from
-satellite imagery, leveraging regional convolutional neural networks for instance
+In this work, we introduce an approach to **segment and map individual slums from
+satellite imagery**, leveraging regional convolutional neural networks for instance
 segmentation using transfer learning. In addition, we also introduce a method to
-perform change detection and monitor slum change over time.
+**perform change detection and monitor slum change over time**.
