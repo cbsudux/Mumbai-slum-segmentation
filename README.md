@@ -14,6 +14,9 @@ rely heavily on **slum mapping** and **monitoring**.
 
 ![Alt text](https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/assets/images/intro.png)
 
+![Alt text](https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/assets/images/intro-min.jpg)
+
+
 <img src="https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/intro.jpg" width = "500">
 
 
