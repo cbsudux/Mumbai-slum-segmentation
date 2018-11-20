@@ -10,6 +10,8 @@ reliable sanitation services, clean water, electricity, other basic services. We
 
 <img src="https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/assets/images/combined-intro.png" align="center">
 
+![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 ![pose](https://github.com/cbsudux/awesome-human-pose-estimation/blob/master/diagram_2.png)
