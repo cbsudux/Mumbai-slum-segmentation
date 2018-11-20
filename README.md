@@ -9,7 +9,7 @@ rehabilitation is an important global challenge, and a significant
 amount of effort and resources have been put into this endeavor. These initiatives
 rely heavily on **slum mapping** and **monitoring**.
 
--#(![Alt text](https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/intro.jpg?raw=true "Title"<<)
+![Alt text](https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/intro.jpg "Title")
 
 <img src="https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/intro.jpg" width = "500">
 
