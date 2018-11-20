@@ -10,10 +10,7 @@ amount of effort and resources have been put into this endeavor. These initiativ
 rely heavily on **slum mapping** and **monitoring**.
 
 
-![Alt Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-
-![Alt text](https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/assets/images/intro-min.jpg)
+<img src="https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/assets/images/intro-min.jpg" width="500">
 
 
 In this work, we introduce an approach to **segment and map individual slums from
