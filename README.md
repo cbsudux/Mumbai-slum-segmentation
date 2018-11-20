@@ -43,6 +43,7 @@ We curated a dataset from Google Earth and with data from the Slum Rehalibiliati
 
 - Add results
 - Slum wise results?
+- Video result
 - Change detection results
 
 
