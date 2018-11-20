@@ -8,13 +8,8 @@ More than one billion people live in slums around the world. In some developing
 countries, slum residents make up for more than half of the population and lack
 reliable sanitation services, clean water, electricity, other basic services. We wanted to help. We built a deep learning model to map and ... .Add 1 result (image | predicted mask + image)
 
-<img src="https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/assets/images/combined-intro.png" align="center">
+![slum](/assets/images/combined-intro.png)
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-![pose](https://github.com/cbsudux/awesome-human-pose-estimation/blob/master/diagram_2.png)
 
 ## Mumbai Slums
 
