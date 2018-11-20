@@ -11,3 +11,5 @@ reliable sanitation services, clean water, electricity, other basic services. We
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 ![pose](https://github.com/cbsudux/awesome-human-pose-estimation/blob/master/diagram_2.png)
+
+![slum](/assets/images/combined-intro.png)
