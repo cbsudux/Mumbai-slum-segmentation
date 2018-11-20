@@ -12,7 +12,7 @@ rely heavily on **slum mapping** and **monitoring**.
 
 ![Alt Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-![Alt text](https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/assets/images/intro.jpg)
+![Alt text](https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/assets/images/intro.png)
 
 <img src="https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/intro.jpg" width = "500">
 
