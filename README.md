@@ -16,19 +16,21 @@ Mumbai is the most populous city .. .However, it is also, home to some of the la
 Add pictues at 1000m of each slum ( add a population stat on the pic itself)
 (add one crude infographic of mumbai with markers of each slum?)
 
-The situation is pretty bad in Mumbai. 
+The situation is pretty bad in Mumbai. These pictures only capture a fraction of ... (add sad and inspiring pictures)
+
+We wanted to help. 
 
 
-*slum
-rehabilitation is an important global challenge, and a significant
-amount of effort and resources have been put into this endeavor*.  These initiatives
-rely heavily on **slum mapping** and **monitoring**. Unfortunatrly, when we spoke to the concenred authorities, they did not have any automated system ... . 
 
 We wanted to help.
 
 
 ## What did we do to help?
 
+*slum
+rehabilitation is an important global challenge, and a significant
+amount of effort and resources have been put into this endeavor*.  These initiatives
+rely heavily on **slum mapping** and **monitoring**. Unfortunatrly, when we spoke to the concenred authorities, they did not have any automated system ... . 
 We introduce an approach to **segment and map individual slums from
 satellite imagery**, leveraging regional convolutional neural networks for instance
 segmentation using transfer learning. In addition, we also introduce a method to
@@ -38,5 +40,28 @@ segmentation using transfer learning. In addition, we also introduce a method to
 ## How did we go about it?
 
 We curated a dataset from Google Earth and with data from the Slum Rehalibiliation Authority of Mumbai. We trained a Deep Learning model for instance segmentation (Mask R-CNN) on this dataset and  
+
+- Add results
+- Slum wise results?
+- Change detection results
+
+
+## Contributors
+
+- Shishira
+- cbsudux
+
+## Acknowledgements
+
+SRA
+
+## Additional Resources
+
+
+### citing
+
+
+### license
+
 
 
