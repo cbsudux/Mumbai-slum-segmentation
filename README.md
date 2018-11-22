@@ -12,6 +12,11 @@ reliable sanitation services, clean water, electricity, other basic services. We
 </p>
 
 
+## Training 
+
+Read [this](https://github.com/cbsudux/Mumbai-slum-segmentation/tree/master/slums) for training and testing, and how to prepare your own satellite dataset.
+
+
 
 ## Contributors
 
