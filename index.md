@@ -6,7 +6,6 @@ Add an intro (gives reader quick idea on what you have done, go into detail afte
 
 More than one billion people live in slums around the world. In some developing countries, slum residents make up for more than half of the population and lack reliable sanitation services, clean water, electricity, other basic services. We wanted to help. We built a deep learning model to map and 
 
-Add 1 result (image | predicted mask + image)
 
 ![intro-pic](/assets/images/combined-intro.png)
 
@@ -19,7 +18,7 @@ The United Nations Habitat program defines slums as informal settlements that la
 
 Mumbai is one of the most populous cities in India, and while it is one of the wealthiest cities in India, it is also home to some of the world’s biggest slums -- Dharavi, Mankhurd-Govandi belt, Kurla-Ghatkopar belt, Dindoshi and The Bhandup-Mulund slums. The number of slum-dwellers in Mumbai is estimated to be around 9 million, up from 6 million in 2001 that is, 62% of of Mumbai live in informal slums.
 
-![dharavi-govandi](/assets/images/dharavi.png)
+![dharavi-govandi](/assets/images/dh-govandi.png)
 
 ![kurla](/assets/images/kurla.jpg)
 
@@ -32,15 +31,11 @@ We wanted to help.
 
 ## What did we do?
 
-*slum
-rehabilitation is an important global challenge, and a significant
-amount of effort and resources have been put into this endeavor*.  These initiatives
-rely heavily on **slum mapping** and **monitoring**. Unfortunatrly, when we spoke to the concenred authorities, they did not have any automated system ... . 
-We introduce an approach to **segment and map individual slums from
-satellite imagery**, leveraging regional convolutional neural networks for instance
-segmentation using transfer learning. In addition, we also introduce a method to
-**perform change detection and monitor slum change over time**. --> rephrase and make more like blog writing
+Any intitative on slum rehabitiation and improvement relies heavily on **slum mapping** and **monitoring**. When we spoke to the relevant authorities, we found out that they mapped slums manually (human annotators), which takes a substantial amount of time. We realised we could automate this and came up with a deep learning approach to **segment and map individual slums from satellite imagery**, leveraging CNNs for instance segmentation. In addition, we also wrote code to **perform change detection and monitor slum change over time**, which is an important task and a very good *urban economy* indicator.
 
+image - predicted mask + image
+
+Change detection
 
 ## How did we go about it?
 
