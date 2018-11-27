@@ -4,8 +4,7 @@
 
 Add an intro (gives reader quick idea on what you have done, go into detail after talking about slums and giving slum facts) 
 
-More than one billion people live in slums around the world. In some developing countries, slum residents make up for more than half of the population and lack reliable sanitation services, clean water, electricity, other basic services. We wanted to help. We built a deep learning model to map and 
-
+More than one billion people live in slums around the world. In some developing countries, slum residents make up for more than half of the population and lack reliable sanitation services, clean water, electricity, other basic services. We wanted to help. 
 
 ![intro-pic](/assets/images/combined-intro.png)
 
@@ -39,7 +38,12 @@ Change detection
 
 ## How did we go about it?
 
-We curated a dataset from Google Earth and with data from the Slum Rehalibiliation Authority of Mumbai. We trained a Deep Learning model for instance segmentation (Mask R-CNN) on this dataset and  
+We curated a **dataset** containing 3-band (RGB) satellite imagery with 65 cm per pixel resolution
+collected from Google Earth. Each image has a pixel size of 1280x720. The satellite imagery covers most of
+Mumbai and we include images from 2002 to 2018, to analyze slum change. We used 513 images for training, and 97 images for testing.
+
+For slum segmentation and mapping, we trained a Mask R-CNN on our custom dataset. (check out our trained model?).  
+
 
 - Add results
 - Slum wise results?
@@ -58,6 +62,10 @@ Very good section.
 ## Acknowledgements
 
 We would like to thank the Slum Rehabiliation Authority of Mumbai for their data.
+
+## Citing
+
+We published our work in the NeurIPS (NIPS) 2018 ML4D workshop. 
 
 ## Additional Resources
 
