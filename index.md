@@ -42,13 +42,16 @@ We curated a **dataset** containing 3-band (RGB) satellite imagery with 65 cm pe
 collected from Google Earth. Each image has a pixel size of 1280x720. The satellite imagery covers most of
 Mumbai and we include images from 2002 to 2018, to analyze slum change. We used 513 images for training, and 97 images for testing.
 
-For slum segmentation and mapping, we trained a Mask R-CNN on our custom dataset. (check out our trained model?).  
+For slum segmentation and mapping, we trained a Mask R-CNN on our custom dataset. Check our [github readme](https://github.com/cbsudux/Mumbai-slum-segmentation/tree/master/slums) for our training and testing approaches, and our [paper](https://arxiv.org/abs/1811.07896) for more details.  
+
+image result
+video result
 
 
-- Add results
-- Slum wise results?
-- Video result
-- Change detection results
+For slum change detection, we took a pair of satellite images, representing the same location at different points of time. We predicted masks for both these images and then subtract the masks to obtain a percentage icrease/decrease.   
+
+image result
+
 
 ## Contributors
 
