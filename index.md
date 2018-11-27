@@ -13,7 +13,7 @@ Mumbai is one of the most populous and wealthiest cities in India. However, it i
 
 ![kurla](/assets/images/kurla.jpg)
 
-When we spoke to the local slum dwellers, we realised that the situation was worse than we expected. 
+When we spoke to the local slum dwellers, we realised that the situation was worse than we expected. Most of them lack access to clean water, basic sanitation and any form of reliable healthcare.
 
 We wanted to help. 
 
