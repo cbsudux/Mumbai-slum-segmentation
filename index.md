@@ -1,7 +1,5 @@
 # Mumbai slum segmentation
 
-(Stress on AI 4 social good)
-
 More than one billion people live in slums around the world. In some developing countries, slum residents make up for more than half of the population and lack reliable sanitation services, clean water, electricity, other basic services. We wanted to help. 
 
 ![intro-pic](/assets/images/combined-intro.png)
@@ -15,7 +13,7 @@ Mumbai is one of the most populous and wealthiest cities in India. However, it i
 
 ![kurla](/assets/images/kurla.jpg)
 
-When we spoke to the local slum dwellers, we realised that the situation was worse than we expected, and they faced a lot of serious issues.  
+When we spoke to the local slum dwellers, we realised that the situation was worse than we expected. 
 
 We wanted to help. 
 
@@ -28,9 +26,9 @@ Any intitative on slum rehabitiation and improvement relies heavily on **slum ma
 
 We curated a **dataset** containing 3-band (RGB) satellite imagery with 65 cm per pixel resolution
 collected from Google Earth. Each image has a pixel size of 1280x720. The satellite imagery covers most of
-Mumbai and we include images from 2002 to 2018, to analyze slum change. We used 513 images for training, and 97 images for testing.
+Mumbai and we include images from 2002 to 2018, to analyze slum change. We used 513 images for training, and 97 images for testing. (Unfortunately, we cannot redistribute the dataset, due to Google polciy.)
 
-For slum segmentation and mapping, we trained a Mask R-CNN on our custom dataset. Check our [github readme](https://github.com/cbsudux/Mumbai-slum-segmentation/tree/master/slums) for our training and testing approaches, and our [paper](https://arxiv.org/abs/1811.07896) for more details.  
+For **slum segmentation and mapping**, we trained a Mask R-CNN on our custom dataset. Check our [github readme](https://github.com/cbsudux/Mumbai-slum-segmentation/tree/master/slums) for our training and testing approaches, and our [paper](https://arxiv.org/abs/1811.07896) for more details.  
 
 image result
 video result
@@ -61,7 +59,7 @@ We would like to thank the Slum Rehabiliation Authority of Mumbai for their data
 
 ## Citing
 
-We published our work in the NeurIPS (NIPS) 2018 ML4D workshop. If you'd 
+We published our work in the NeurIPS (NIPS) 2018 ML4D workshop. If you'd like to use our
 
 
 
