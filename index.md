@@ -2,8 +2,6 @@
 
 (Stress on AI 4 social good)
 
-WIP 
-
 Add an intro (gives reader quick idea on what you have done, go into detail after talking about slums and giving slum facts) 
 
 More than one billion people live in slums around the world. In some developing countries, slum residents make up for more than half of the population and lack reliable sanitation services, clean water, electricity, other basic services. We wanted to help. We built a deep learning model to map and 
@@ -13,9 +11,13 @@ Add 1 result (image | predicted mask + image)
 ![intro-pic](/assets/images/combined-intro.png)
 
 
+## What are slums?
+
+The United Nations Habitat program defines slums as informal settlements that lack one or more of the following five conditions: access to clean water, access to improved sanitation, sufficient living area that is not overcrowded, durable housing and secure tenure.
+
 ## Mumbai Slums
 
-Mumbai is the most populous city .. .However, it is also, home to some of the largest slums in asia - Dharavi, Mankhurd-Govandi belt, KurlaGhatkopar belt, Dindoshi and The Bhandup-Mulund slums.
+Mumbai is one of the most populous cities in India, and while it is one of the wealthiest cities in India, it is also home to some of the world’s biggest slums -- Dharavi, Mankhurd-Govandi belt, Kurla-Ghatkopar belt, Dindoshi and The Bhandup-Mulund slums. The number of slum-dwellers in Mumbai is estimated to be around 9 million, up from 6 million in 2001 that is, 62% of of Mumbai live in informal slums.
 
 ![dharavi-govandi](/assets/images/dharavi.png)
 
@@ -23,12 +25,12 @@ Mumbai is the most populous city .. .However, it is also, home to some of the la
 
 (add one crude infographic of mumbai with markers of each slum?)
 
-The situation is pretty bad in Mumbai. These pictures only capture a fraction of ... (add sad and inspiring pictures)
+The situation is pretty bad in Mumbai. These pictures only capture a fraction of ... 
 
 We wanted to help. 
 
 
-## What did we do to help?
+## What did we do?
 
 *slum
 rehabilitation is an important global challenge, and a significant
