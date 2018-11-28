@@ -6,7 +6,7 @@ reliable sanitation services, clean water, electricity, other basic services. We
 
 
 <p align="center">
-  <img src="https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/assets/images/kurla-result.png" width=700>
+  <img src="https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/assets/images/combined-intro.png" width=700>
 </p>
 
 ## Mumbai Slums
