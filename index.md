@@ -35,7 +35,7 @@ For **slum segmentation and mapping**, we trained a Mask R-CNN on our custom dat
 
 For **slum change detection**, we took a pair of satellite images, representing the same location at different points of time. We predicted masks for both these images and then subtract the masks to obtain a percentage icrease/decrease.   
 
-image result
+![change result](/assets/images/change.png)
 
 ## Contributors
 
