@@ -49,16 +49,6 @@ Read [this](https://github.com/cbsudux/Mumbai-slum-segmentation/tree/master/slum
 - [Sudharshan Chandra Babu](http://github.com/cbsudux)
 - [Shishira R Maiya](https://github.com/abhyantrika)
 
-## How can you help?
-
-Quite a lot of NGOs work towards slum rehabilitation in Mumbai. You can volunteer (or) donate.  
-
-### NGOs 
-
-- [Slum Aid](http://slumaid.org/)
-- [Red Boys Foundation](http://www.redboysfoundation.com/)
-- [SAKHI](http://sakhiforgirlseducation.org/)
-- [Society for Nutrition, Education & Health Action (SNEHA)](http://snehamumbai.org/)
 
 ## Acknowledgements
 
