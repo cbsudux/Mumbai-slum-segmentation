@@ -34,7 +34,7 @@ For **slum segmentation and mapping**, we trained a Mask R-CNN on our custom dat
 
 <div class="video">
     <figure>
-        <iframe  width="720" height="480" src="//www.youtube.com/embed/lRMQpQf8bi8" frameborder="0" allowfullscreen></iframe>
+        <iframe  width="800" height="400" src="//www.youtube.com/embed/lRMQpQf8bi8" frameborder="0" allowfullscreen></iframe>
     </figure>
 </div>
 
