@@ -36,7 +36,7 @@ The Kurla-Ghatokopar slums (above) are one of the first things you see when you 
 
 <div class="video">
     <figure>
-        <iframe  width="800" height="400" src="//www.youtube.com/embed/lRMQpQf8bi8" frameborder="0" allowfullscreen></iframe>
+        <iframe  width="780" height="400" src="//www.youtube.com/embed/lRMQpQf8bi8" frameborder="0" allowfullscreen></iframe>
     </figure>
 </div>
 
