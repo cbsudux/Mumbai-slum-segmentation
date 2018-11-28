@@ -32,12 +32,15 @@ For **slum segmentation and mapping**, we trained a Mask R-CNN on our custom dat
 
 ![kurla result](/assets/images/kurla-result_2.png)
 
+The Kurla-Ghatokopar slums (above) are one of the first things you see when you land in Mumbai, given the proximity to the Chhatrapati Shivaji Maharaj International Airport.
+
 <div class="video">
     <figure>
-        <iframe  width="800" height="400" src="//www.youtube.com/embed/lRMQpQf8bi8" frameborder="0" allowfullscreen></iframe>
+        <iframe  width="840" height="400" src="//www.youtube.com/embed/lRMQpQf8bi8" frameborder="0" allowfullscreen></iframe>
     </figure>
 </div>
 
+Here's a short video (above) of our model mapping the Govandi slums.  
 
 For **slum change detection**, we took a pair of satellite images, representing the same location at different points of time. We predicted masks for both these images and then subtract the masks to obtain a percentage icrease/decrease.   
 
