@@ -6,7 +6,7 @@ reliable sanitation services, clean water, electricity, other basic services. We
 
 
 <p align="center">
-  <img src="https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/assets/images/combined-intro.png" width=700>
+  <img src="https://github.com/cbsudux/Mumbai-slum-segmentation/blob/master/assets/images/combined-intro.png" >
 </p>
 
 ## Mumbai Slums
@@ -38,10 +38,9 @@ For **slum segmentation and mapping**, we trained a Mask R-CNN on our custom dat
 The Kurla-Ghatokopar slums (above) are one of the first things you see when you land in Mumbai, given their proximity to the Chhatrapati Shivaji Maharaj International Airport.
 
 
-## Training 
+## Training and Testing
 
 Read [this](https://github.com/cbsudux/Mumbai-slum-segmentation/tree/master/slums) for training and testing, and how to prepare your own satellite dataset.
-
 
 
 ## Contributors
