@@ -43,7 +43,7 @@ The Kurla-Ghatokopar slums (above) are one of the first things you see when you 
 
 Here's a short video (above) of our model mapping the Govandi slums.  
 
-For **slum change detection**, we took a pair of satellite images, representing the same location at different points of time. We predicted masks for both these images and then subtracted the masks to obtain a percentage icrease/decrease. The following images (below) show a change of +35.25% between 2018 (top row) and 2005 (2005) of the same slum.    
+For **slum change detection**, we took a pair of satellite images, representing the same location at different points of time. We predicted masks for both these images and then subtracted the masks to obtain a percentage icrease/decrease. The following images (below) show a change of +35.25% between 2018 (top row) and 2005 (bottom row) of the same slum.    
 
 ![change result](/assets/images/change.png)
 
