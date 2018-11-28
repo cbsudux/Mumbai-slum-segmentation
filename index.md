@@ -33,11 +33,12 @@ For **slum segmentation and mapping**, we trained a Mask R-CNN on our custom dat
 ![kurla result](/assets/images/kurla-result_2.png)
 
 The Kurla-Ghatokopar slums (above) are one of the first things you see when you land in Mumbai, given their proximity to the Chhatrapati Shivaji Maharaj International Airport.
-
+<div class = 'center'>
 <div class="video">
     <figure>
         <iframe  width="760" height="400" src="//www.youtube.com/embed/lRMQpQf8bi8" frameborder="0" allowfullscreen></iframe>
     </figure>
+</div>
 </div>
 
 Here's a short video (above) of our model mapping the Govandi slums.  
