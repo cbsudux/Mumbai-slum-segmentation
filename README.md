@@ -29,7 +29,7 @@ Any intitative on slum rehabitiation and improvement relies heavily on **slum ma
 
 We curated a **dataset** containing 3-band (RGB) satellite imagery with 65 cm per pixel resolution
 collected from Google Earth. Each image has a pixel size of 1280x720. The satellite imagery covers most of
-Mumbai and we include images from 2002 to 2018, to analyze slum change. We used 513 images for training, and 97 images for testing. (Unfortunately, we cannot redistribute the dataset, due to Google polciy.)
+Mumbai and we include images from 2002 to 2018, to analyze slum change. We used 513 images for training, and 97 images for testing. (Unfortunately, we cannot redistribute the dataset, due to Google policy.)
 
 For **slum segmentation and mapping**, we trained a Mask R-CNN on our custom dataset. Check our [github readme](https://github.com/cbsudux/Mumbai-slum-segmentation/tree/master/slums) for our training and testing approaches, and our [paper](https://arxiv.org/abs/1811.07896) for more details.  
 
