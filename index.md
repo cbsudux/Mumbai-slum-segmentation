@@ -33,7 +33,6 @@ For **slum segmentation and mapping**, we trained a Mask R-CNN on our custom dat
 ![kurla result](/assets/images/kurla-result_2.png)
 ![gif](/assets/images/slum_480.gif){: .center-image }
 
-{% youtube prFohBWIdQg %} 
 
 <div class="video">
     <figure>
