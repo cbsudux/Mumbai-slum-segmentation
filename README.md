@@ -56,8 +56,15 @@ We would like to thank the Slum Rehabiliation Authority of Mumbai for their data
 
 ## Citing
 
-We published our work in the NeurIPS (NIPS) 2018 ML4D workshop. If you'd like to use our research, please cite using - 
-
+We published our work in the NeurIPS (NIPS) 2018 ML4D workshop. If you'd like to use our research, please cite using :
+```
+@article{maiya2018slum,
+  title={Slum Segmentation and Change Detection: A Deep Learning Approach},
+  author={Maiya, Shishira R and Babu, Sudharshan Chandra},
+  journal={arXiv preprint arXiv:1811.07896},
+  year={2018}
+}
+```
 
 ## License
 
