@@ -31,7 +31,7 @@ Mumbai and we include images from 2002 to 2018, to analyze slum change. We used 
 For **slum segmentation and mapping**, we trained a Mask R-CNN on our custom dataset. Check our [github readme](https://github.com/cbsudux/Mumbai-slum-segmentation/tree/master/slums) for our training and testing approaches, and our [paper](https://arxiv.org/abs/1811.07896) for more details.  
 
 ![kurla result](/assets/images/kurla-result_2.png)
-![gif](/assets/images/slum_480.gif)
+![gif](/assets/images/slum_480.gif){: .center-image }
 
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
