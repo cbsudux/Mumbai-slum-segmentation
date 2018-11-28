@@ -36,15 +36,16 @@ The Kurla-Ghatokopar slums (above) are one of the first things you see when you 
 
 <div class="video">
     <figure>
-        <iframe  width="780" height="400" src="//www.youtube.com/embed/lRMQpQf8bi8" frameborder="0" allowfullscreen></iframe>
+        <iframe  width="760" height="400" src="//www.youtube.com/embed/lRMQpQf8bi8" frameborder="0" allowfullscreen></iframe>
     </figure>
 </div>
 
 Here's a short video (above) of our model mapping the Govandi slums.  
 
-For **slum change detection**, we took a pair of satellite images, representing the same location at different points of time. We predicted masks for both these images and then subtract the masks to obtain a percentage icrease/decrease.   
+For **slum change detection**, we took a pair of satellite images, representing the same location at different points of time. We predicted masks for both these images and then subtracted the masks to obtain a percentage icrease/decrease.   
 
 ![change result](/assets/images/change.png)
+
 
 ## Contributors
 
