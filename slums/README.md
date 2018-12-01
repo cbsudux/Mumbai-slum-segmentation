@@ -22,10 +22,10 @@ dataset/
             val.json
 ```
 
-Here are few links to help you to curate your own dataset:
-https://productforums.google.com/forum/#!msg/maps/8KjNgwbBzwc/4kNMfXB6CAAJ
-https://support.google.com/earth/answer/148146?hl=en
-http://www.robots.ox.ac.uk/~vgg/software/via/
+Here are few links to help you to curate your own dataset: <br>
+https://productforums.google.com/forum/#!msg/maps/8KjNgwbBzwc/4kNMfXB6CAAJ <br>
+https://support.google.com/earth/answer/148146?hl=en <br>
+http://www.robots.ox.ac.uk/~vgg/software/via/ <br>
 ## Training the model
 
 Train a new model starting from pre-trained COCO weights
