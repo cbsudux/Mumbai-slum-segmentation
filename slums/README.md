@@ -61,3 +61,9 @@ Segments out instances and applies masks on a video.
 ```bash
 python3 slum.py splash --weights=/path/to/mask_rcnn/mask_rcnn_slum.h5 --video=<file name or URL>
 ```
+## Change Detection
+For detecting percentage change in masks, place the two images in ```change_det/ ``` folder and run:
+
+```bash
+python3 change_detection.py  --weights=/path/to/mask_rcnn/mask_rcnn_slum.h5 
+```
