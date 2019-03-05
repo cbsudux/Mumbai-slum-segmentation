@@ -7,6 +7,7 @@ This file contains details about training and inference for slum segmentation us
 ## Installation
 Use this Google Drive link to download the weights: 
 * Download `mask_rcnn_slum_600_00128.h5` and save it in root directory.
+* Link : https://drive.google.com/file/d/1IIMZLrdCZXY_dA540Ve9lSJplYHLnTY4/view?usp=sharing
 
 ## Dataset
 Dataset of satellite images can be created using Google Earth's desktop application. For our project, we used 720X1280 images at 1000m and 100m views, from various Mumbai slums. Google's policy states that we cannot redistribute the dataset. 
